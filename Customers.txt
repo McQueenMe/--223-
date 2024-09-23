@@ -1,0 +1,18 @@
+
+Object 1:
+Mazko Petro Valentynovych
++380986542534
+Arnautska 66
+Odel Touring
+1
+122
+Doesn`t have a trip
+----------------------------------------------
+Object 2:
+Tkach Oleg Bicktorovych
++380984235644
+Bocharova 23a
+Odel Touring
+1
+189
+Doesn`t have a trip

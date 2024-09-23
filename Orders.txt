@@ -1,0 +1,36 @@
+
+
+24
+Ukraine
+Ukraine tour 1
+Mazko Petro Valentynovych
+7
+15000
+
+2024
+Ukraine
+Ukraine Tour 2
+Tkach Oleg Bicktorovych
+14
+23000
+
+2024
+Germany
+Germany Tour 1
+Tkach Oleg Bicktorovych
+7
+40000
+
+2024
+Germany
+Germany Tour 2
+Tkach Oleg Bicktorovych
+12
+60000
+
+2024
+Paris
+Paris Tour 1
+Tkach Oleg Bicktorovych
+10
+50000
